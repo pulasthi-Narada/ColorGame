@@ -20,4 +20,8 @@ When we load up the page and we get 6 random colors  and one those RGB colors va
  Please visit to this link to view live demo of this project.
 https://pulasthi-nanayakkara.github.io/ColorGame/ 
 
+Screenshot
+
+<img src="Screenshot/ss.png">
+
 
