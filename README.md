@@ -8,7 +8,7 @@ https://pulasthi-nanayakkara.github.io/ColorGame/
 
    how it works!
 
-When we load up the page and we get 6 random colors here and one those RGB colors  is list it up in page heading. As an example:- RGB(211,206,13). Game is try and figure what color is list it up in page heading and pick correct RGB color from 6 random colors. 
+When we load up the page and we get 6 random colors  and one those RGB colors value  is list it up in page heading. As an example:- RGB(211,206,13). Game is try and figure what color is list it up in page heading and pick correct RGB color from 6 random colors. 
 
    reference
    
